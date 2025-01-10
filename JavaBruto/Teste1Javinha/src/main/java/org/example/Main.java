@@ -15,4 +15,11 @@ public class Main {
     }
 }
 
+class MamaMia{
+    public void fruta(int[] args){
+        String avocado = "verde";
+
+    }
+}
+
 
